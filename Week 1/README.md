@@ -1,8 +1,10 @@
 #Week 1 Announcement
 I will inform you of the orientation slides and ToDos.
 
-Next session will be Zoom online lecture: Date：Thursday 11 March 2021 19:30~20:30 The Zoom URL will be posted in this channel
-Zoom online tutorial mentoring session Date：Friday 12 March 2021 19:30~20:30 The Zoom URL will be posted in this channel
+Next session will be Zoom online lecture 
+Date：Thursday 11 March 2021 19:30~20:30 The Zoom URL will be posted in this channel
+Zoom online tutorial mentoring session 
+Date：Friday 12 March 2021 19:30~20:30 The Zoom URL will be posted in this channel
 Homework: Week 1 pre-class assignments will be tied to the DIVER and should be completed by the next class. https://diver.diveintocode.jp/curriculums/1385
 Create and upload your self-introduction slide. https://diveintocode.slack.com/archives/G01PS0G83QE/p1614863955012700
 This course runs weekly at top speed. Because good students need difficult problems.
