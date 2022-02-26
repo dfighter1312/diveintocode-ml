@@ -13,9 +13,7 @@ Candidate: Nguyễn Hoàng Dũng (HCMUT)
 - External repo for word segmentation
     - `transformers`
     - `vncorenlp`
-- Data:
-    - In `.txt` format: can be acquired from https://github.com/duyvuleo/VNTC.
-    - In `.csv` format: `csv`
+- Data: can be acquired from https://github.com/duyvuleo/VNTC.
 - `main.py` for running experiments.
 - `model` contains the model instance.
 - `requirements.txt` for packages & dependencies installation.
