@@ -8,7 +8,7 @@ Candidate: Nguyễn Hoàng Dũng (HCMUT)
 
 - Jupyter Notebooks for exploring the data and testing the model.
     - `csv_generation.ipynb` convert text files to csv.
-    - `ml_based.ipynb` warm-up test with ML-based model (Support Vector Machine with TF-IDF vectorizer).
+    - `ml_based.ipynb` warm-up ML-based model (Support Vector Machine with TF-IDF vectorizer).
     - `dl_based.ipynb` employs CNN for text classification.
 - External repo for word segmentation
     - `transformers`
@@ -19,5 +19,5 @@ Candidate: Nguyễn Hoàng Dũng (HCMUT)
 - `main.py` for running experiments.
 - `model` contains the model instance.
 - `requirements.txt` for packages & dependencies installation.
-- `slides.pdf`: Presentation slides for graduation project.
+-  Presentation slides for graduation project in `.pdf` and `.pptx` format.
 - `LICENSE`.
